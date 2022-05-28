@@ -1,11 +1,11 @@
-<h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Cybersecurity Professional </a>& <a href="https://www.linkedin.com/in/">Programmer</a>
+<h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Cybersecurity Professional & Researcher </a> <a href="https://www.linkedin.com/in/"> 
 
 <h2>👨‍💻</h2>
 
 - <b>IoT & Embedded Systems (IoT Security)</b>
   - [Are your Smart devices Safe or Snoops?](https://github.com/actuator)
 - <b>Java (Android)</b>
-  - [Course Management Java Application)](https://github.com/actuator/Course_Management_Android_App)
+  - [Course Management Mobile App](https://github.com/actuator/Course_Management_Android_App)
 
 - <b>Python</b>
   - [Place holder (Misc)](https://github.com/actuator)
