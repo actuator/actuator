@@ -7,10 +7,10 @@
 
 
 - <b>Python</b>
-  - [Coming Soon! (Misc)](https://github.com/actuator)
+  - [Coming Soon!](https://github.com/actuator)
   
 - <b>C++</b>
-  - [Coming Soon! (Misc)](https://github.com/actuator)
+  - [Coming Soon!](https://github.com/actuator)
   
   <h2> Undergraduate University Projects </h2>
 - <b>Java (Android)</b>
