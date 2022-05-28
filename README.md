@@ -1,7 +1,30 @@
-### Hi there 👋
+<h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Programmer</a>, <a href="https://www.linkedin.com/in/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
 
+<h2>👨‍💻</h2>
+
+- <b>Cybersecurity in IoT & Embedded Systems (IoT Security)</b>
+  - [Are your Smart devices Safe or Snoops ?](https://github.com/actuator)
+- <b>Java (Android)</b>
+  - [Course Management Java Application)](https://github.com/actuator/Course_Management_Android_App)
+
+- <b>Python</b>
+  - [Place holder (Misc)](https://github.com/actuator)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Place Holder](https://www.youtube.com/watch?v=)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Actuator | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Actuator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[youtube]: https://www.youtube.com/c/
+[linkedin]: https://linkedin.com/in/
 <!--
-**actuator/actuator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
