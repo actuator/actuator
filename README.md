@@ -7,7 +7,10 @@
 
 
 - <b>Python</b>
-  - [Place holder (Misc)](https://github.com/actuator)
+  - [Coming Soon! (Misc)](https://github.com/actuator)
+  
+- <b>C++</b>
+  - [Coming Soon! (Misc)](https://github.com/actuator)
   
   <h2> Undergraduate University Projects </h2>
 - <b>Java (Android)</b>
@@ -15,7 +18,7 @@
    
 <h2>📺 YouTube Videos</h2>
 
-- [Place Holder](https://www.youtube.com/watch?v=)
+- [Coming Soon!](https://www.youtube.com/watch?v=)
 
 
 <h2> 🤳 Connect with me:</h2>
