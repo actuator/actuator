@@ -1,16 +1,16 @@
-<h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Programmer &</a>, <a href="https://www.linkedin.com/in/">Cybersecurity Professional</a>
+<h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Cybersecurity Professional </a>& <a href="https://www.linkedin.com/in/">Programmer</a>
 
 <h2>👨‍💻</h2>
 
-- <b>Cybersecurity in IoT & Embedded Systems (IoT Security)</b>
-  - [Are your Smart devices Safe or Snoops ?](https://github.com/actuator)
+- <b>IoT & Embedded Systems (IoT Security)</b>
+  - [Are your Smart devices Safe or Snoops?](https://github.com/actuator)
 - <b>Java (Android)</b>
   - [Course Management Java Application)](https://github.com/actuator/Course_Management_Android_App)
 
 - <b>Python</b>
   - [Place holder (Misc)](https://github.com/actuator)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Place Holder](https://www.youtube.com/watch?v=)
 
