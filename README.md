@@ -1,4 +1,4 @@
-<h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Programmer</a>, <a href="https://www.linkedin.com/in/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
+<h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Programmer &</a>, <a href="https://www.linkedin.com/in/">Cybersecurity Professional</a>
 
 <h2>👨‍💻</h2>
 
