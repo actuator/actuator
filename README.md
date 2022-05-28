@@ -1,8 +1,8 @@
 <h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Junior Cybersecurity Analyst & Researcher</a> <a href="https://www.linkedin.com/in/"> 
 
-<h2>💻 Security Research & Projects:</h2>
+<h2>Research & Projects:</h2>
 
-- <b>IoT & Embedded Systems (IoT Security)</b>
+- <b>⚡ IoT & Embedded Systems (IoT Security)</b>
   - [Are your Smart devices Safe or Snoops?](https://github.com/actuator)
 
 
@@ -12,7 +12,7 @@
 - <b>C++</b>
   - [Coming Soon!](https://github.com/actuator)
   
-  <h3>⚡University Projects</h3>
+  <h3>University Projects</h3>
 - <b>Java (Android)</b>
   - [Course Management Mobile App](https://github.com/actuator/Course_Management_Android_App)
    
