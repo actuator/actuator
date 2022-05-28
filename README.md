@@ -1,4 +1,4 @@
-<h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Junior Cybersecurity Analyst & Aspiring Graduate Student</a> <a href="https://www.linkedin.com/in/"> 
+<h1>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Junior Cybersecurity Analyst & Researcher</a> <a href="https://www.linkedin.com/in/"> 
 
 <h2>👨‍💻 Security Research & Projects:</h2>
 
