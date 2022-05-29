@@ -16,9 +16,13 @@
 
 - [Coming Soon!](https://www.youtube.com/watch?v=)
 
+   
+<!--
 <h3>University Projects</h3>
 - <b>Java (Android)</b>
   - {Course Management Mobile App}(https://github.com/actuator/CourseMngtApp)
+-->
+
   
 <h2> 💬 Connect with me:</h2>
 
