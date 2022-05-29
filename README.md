@@ -11,15 +11,15 @@
 - <b>C++</b>
   - [Coming Soon!](https://github.com/actuator)
   
-  <h3>Misc Projects</h3>
-- <b>Java (Android)</b>
-  - [Student Course Management Mobile App](https://github.com/actuator/CourseMngtApp)
    
 <h3>▶️ YouTube Videos</h3>
 
 - [Coming Soon!](https://www.youtube.com/watch?v=)
 
-
+<h3>University Projects</h3>
+- <b>Java (Android)</b>
+  - {Course Management Mobile App}(https://github.com/actuator/CourseMngtApp)
+  
 <h2> 💬 Connect with me:</h2>
 
 [<img align="left" alt="Actuator | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
