@@ -1,10 +1,10 @@
-<h2>Hi, I'm Actuator! <br/><a href="https://github.com/actuator">Junior Cybersecurity Analyst & Researcher</a> </h2> <a href="https://www.linkedin.com/in/"> 
+<h2><a href="https://github.com/actuator">@Actuator</a> </h2> 
 <h2>Research & Projects:</h2>
 
-- <b>⚡ IoT & Embedded Systems (IoT Security)</b>
-  - [Software & Hardware Vector Analysis](https://github.com/actuator)
+- <b>⚡ IoT & Embedded Systems</b>
+  - [Security Vector Analysis](https://github.com/actuator)
 
-
+<!--
 - <b>Python</b>
   - [Coming Soon!](https://github.com/actuator)
   
@@ -17,7 +17,7 @@
 - [Coming Soon!](https://www.youtube.com/watch?v=)
 
    
-<!--
+
 <h3>University Projects</h3>
 - <b>Java (Android)</b>
   - {Course Management Mobile App}(https://github.com/actuator/CourseMngtApp)
