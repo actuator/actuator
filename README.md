@@ -1,10 +1,10 @@
 <h2><a href="https://github.com/actuator">@Actuator</a> </h2> 
-<h2>Research & Projects:</h2>
+<!---<h2>Research & Projects:</h2>
 
 - <b>⚡ IoT & Embedded Systems</b>
   - [Security Vector Analysis](https://github.com/actuator)
 
-<!--
+
 - <b>Python</b>
   - [Coming Soon!](https://github.com/actuator)
   
@@ -21,7 +21,7 @@
 <h3>University Projects</h3>
 - <b>Java (Android)</b>
   - {Course Management Mobile App}(https://github.com/actuator/CourseMngtApp)
--->
+
 
   
 <h2> 💬 Connect with me:</h2>
@@ -35,7 +35,7 @@
   
   
  
-<!--
+
 
 
 
