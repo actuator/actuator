@@ -1,4 +1,4 @@
-![image](https://github.com/actuator/actuator/assets/78701239/8413aab6-39ef-468e-bade-3adee49bb50b)
+![image](https://github.com/actuator/actuator/assets/78701239/e64700c3-a8c3-4f6f-b6da-3e9d99522315)
 
 
 
