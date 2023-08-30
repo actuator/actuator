@@ -6,4 +6,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=youtube.com/@actuator)](https://youtube.com/@actuator)
 
-Ampulicidae.com | Tenodera.com | Hymenopus.com | Hierodula.com | Deroplatys.com | Creobroter.com | Phyllocrania.com | Rhombodera.com | Sphodromantis.com | Stagmomantis.com ...
+Tenodera.com 
